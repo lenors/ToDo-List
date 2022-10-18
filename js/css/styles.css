@@ -46,7 +46,7 @@ input , select{
 .todo-container{
     max-width: 450px;
     margin:4rem auto ;
-    background-color: #f97a7a;
+    background-color: #e67e7e;
     padding: 2.5rem;
     border-radius: 20px;
 }
